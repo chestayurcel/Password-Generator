@@ -56,4 +56,4 @@ Dalam pengerjaan proyek ini, saya memanfaatkan dukungan dari *Artificial Intelli
     * **Responsivitas:** AI menambahkan *CSS Media Query* untuk memastikan aplikasi beradaptasi dengan baik di layar mobile.
 3.  **Pembuatan Dokumentasi Teknis:** AI membantu menyusun keseluruhan isi dari file `README.md` ini, mulai dari struktur hingga konten di setiap bagiannya, untuk mendokumentasikan proyek sesuai standar yang diminta.
 
-[cite_start]Secara keseluruhan, penggunaan AI membuat proses pembuatan menjadi lebih efisien, memungkinkan saya untuk lebih fokus pada pemahaman logika di balik kode dan menghasilkan produk akhir yang lebih berkualitas dalam waktu yang lebih singkat[cite: 7].
+Secara keseluruhan, penggunaan AI membuat proses pembuatan menjadi lebih efisien, memungkinkan saya untuk lebih fokus pada pemahaman logika di balik kode dan menghasilkan produk akhir yang lebih berkualitas dalam waktu yang lebih singkat.
