@@ -57,3 +57,5 @@ Dalam pengerjaan proyek ini, saya memanfaatkan dukungan dari *Artificial Intelli
 3.  **Pembuatan Dokumentasi Teknis:** AI membantu menyusun keseluruhan isi dari file `README.md` ini, mulai dari struktur hingga konten di setiap bagiannya, untuk mendokumentasikan proyek sesuai standar yang diminta.
 
 Secara keseluruhan, penggunaan AI membuat proses pembuatan menjadi lebih efisien, memungkinkan saya untuk lebih fokus pada pemahaman logika di balik kode dan menghasilkan produk akhir yang lebih berkualitas dalam waktu yang lebih singkat.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f1670cf-2d39-4b66-9e1c-218873f8b944/deploy-status)](https://app.netlify.com/projects/password-generator-proyek/deploys)
