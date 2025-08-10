@@ -35,7 +35,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 
 1.  **Clone repository ini:**
     ```bash
-    git clone [LINK_REPOSITORY_GIST_ANDA]
+    git clone [LINK_REPOSITORY_GITHUB_ANDA]
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
